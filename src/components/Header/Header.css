@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #102030;
+  color: white;
+  padding: 2px 20px;
+}
+
+input, button{
+    height: 24px;
+    outline: none;
+    border: 0;
+}
+input{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-indent: 10px;
+}
+button{
+    width: 24px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}

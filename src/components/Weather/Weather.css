@@ -1,0 +1,7 @@
+.weather__body{
+    height: 100vh;
+    background: url('./../../assets/images/backgrond.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
