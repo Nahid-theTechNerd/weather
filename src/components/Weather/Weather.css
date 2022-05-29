@@ -1,7 +1,18 @@
 .weather__body{
     height: 100vh;
-    background: url('./../../assets/images/backgrond.jpg');
+    padding: 20px;
+    background: url('./../../assets/images/background.jpg');
     background-position: center;
     background-size: cover;
+}
 
+.general__info{
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #10203095;
+    color: #fff;
+    border-radius: 10px;
+    display: flex;
+    gap:20px;
 }
